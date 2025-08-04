@@ -53,7 +53,7 @@ Este repositório contém a análise de dados desenvolvida para o Challenge Tele
 
 ## 📁 Como executar o projeto
 
-1. Baize o arquivo `.ipynb` no [Github](https://github.com/Francisco-Liberato/Challenge-TelecomX-Alura)
+1. Baize o arquivo `.ipynb` no [Github](https://github.com/Francisco-Liberato/Challenge-TelecomX-Alura-Francisco/tree/main)
 2. Faça upload do arquivo no [Google Colab](https://colab.research.google.com/)
 3. Execute as celulas na ordem de cima para baixo
 
