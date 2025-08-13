@@ -1,5 +1,8 @@
 # Desafio TelecomX - Alura
-Este repositório contém a análise de dados desenvolvida para o Challenge TelecomX da plataforma Alura, com o objetivo de investigar os principais fatores que influenciam a evasão de clientes (churn) em uma operadora de telecomunicações, compreender o perfil dos clientes que deixam a empresa, identificar padrões de comportamento relacionados ao churn e apoiar estratégias de retenção com base em dados.
+
+### **Desafio do programa Oracle One da Alura.**
+
+Este repositório contém a análise de dados desenvolvida para o Challenge TelecomX, com o objetivo de investigar os principais fatores que influenciam a evasão de clientes (churn) em uma operadora de telecomunicações, compreender o perfil dos clientes que deixam a empresa, identificar padrões de comportamento relacionados ao churn e apoiar estratégias de retenção com base em dados.
 
 ---
 
