@@ -1,4 +1,4 @@
-# Desafio TelecomX - Alura
+# Desafio TelecomX
 
 ### **Desafio do programa Oracle One da Alura.**
 
